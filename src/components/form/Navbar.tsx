@@ -21,12 +21,12 @@ export default function Navbar() {
                         </li>
                         <li className='w-16 h-9.25 py-4 py-6 gap-2'>
                             <a href="#">
-                                <text className='w-10 h-5.25 font-sans font-normal text-sm leading-6 text-gray-700'></text>
+                                <text className='w-10 h-5.25 font-sans font-normal text-sm leading-6 text-gray-700'>Blog</text>
                             </a>
                         </li>
                         <li className='w-16 h-9.25 py-4 py-6 gap-2'>
                             <a href="#">
-                                <text className='w-10 h-5.25 font-sans font-normal text-sm leading-6 text-gray-700'>About</text>
+                                <text className='w-10 h-5.25 font-sans font-normal text-sm leading-6 text-gray-700'>Contact</text>
                             </a>
                         </li>
                     </ul>
